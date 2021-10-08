@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @roh-kumar
+- 👋 Hi, I’m Rohit!
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Data Structures & Algorithms
 - 💞️ I’m looking to collaborate on Open Source Projects
