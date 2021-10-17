@@ -1,4 +1,4 @@
-- https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif Hi, I’m Rohit!
+- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> Hi, I’m Rohit!
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Data Structures & Algorithms
 - 💞️ I’m looking to collaborate on Open Source Projects
